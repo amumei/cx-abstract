@@ -9,4 +9,4 @@
 
 ## Oppgave: Design en Todo app
 * Bruk 2 min sammen til å lage en grov skisse over skjermbilder
-* Fordel oppgaver dere imellom og jobb på hver deres branch
+* Fordel oppgaver dere imellom.
