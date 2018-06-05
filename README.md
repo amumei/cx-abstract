@@ -7,6 +7,6 @@
 4. Opprett et prosjekt for gruppa som alle inviteres til.
 5. Importer Todo-library til prosjektet
 
-## Oppgaver
-* Samarbeid om å lage en Todo app for mobil
+## Oppgave: Design en Todo app
+* Bruk 2 min sammen til å lage en grov skisse over skjermbilder
 * Fordel oppgaver dere imellom og jobb på hver deres branch
